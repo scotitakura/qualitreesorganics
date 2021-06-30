@@ -1,0 +1,183 @@
+[
+    {
+        "id": 1,
+        "linkText": "Home",
+        "child": true,
+        "submenu": [
+            {
+                "id": 11,
+                "link": "/",
+                "linkText": "Home One"
+            },
+            {
+                "id": 12,
+                "link": "/home-v2",
+                "linkText": "Home Two"
+            },
+            {
+                "id": 13,
+                "link": "/home-v3",
+                "linkText": "Home three"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "linkText": "Services",
+        "child": true,
+        "submenu": [
+            {
+                "id": 21,
+                "link": "/services",
+                "linkText": "Services"
+            },
+            {
+                "id": 22,
+                "link": "/service-details",
+                "linkText": "Service Detail"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "linkText": "Pages",
+        "child": true,
+        "submenu": [
+            {
+                "id": 31,
+                "link": "/why-us",
+                "linkText": "Why Choose Us"
+            },
+            {
+                "id": 32,
+                "link": "/contact",
+                "linkText": "Contact"
+            },
+            {
+                "id": 33,
+                "link": "/about",
+                "linkText": "About"
+            },
+            {
+                "id": 34,
+                "linkText": "Team",
+                "child": true,
+                "submenu": [
+                    {
+                        "id": 341,
+                        "link": "/team",
+                        "linkText": "Team"
+                    },
+                    {
+                        "id": 342,
+                        "link": "/team-details/1",
+                        "linkText": "Team Details"
+                    }
+                ]
+            },
+            {
+                "id": 35,
+                "linkText": "News",
+                "child": true,
+                "submenu": [
+                    {
+                        "id": 351,
+                        "link": "/blog-standard",
+                        "linkText": "News Standard"
+                    },
+                    {
+                        "id": 352,
+                        "link": "/blog-details/1",
+                        "linkText": "News Detail"
+                    },
+                    {
+                        "id": 353,
+                        "link": "/blog-grid",
+                        "linkText": "News Grid"
+                    }
+                ]
+            },
+            {
+                "id": 36,
+                "link": "/faq",
+                "linkText": "FAQ's"
+            },
+            {
+                "id": 37,
+                "link": "/cart",
+                "linkText": "Cart"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "linkText": "Shop",
+        "child": true,
+        "submenu": [
+            {
+                "id": 41,
+                "link": "/shop",
+                "linkText": "Shop"
+            },
+            {
+                "id": 42,
+                "link": "/shop-left",
+                "linkText": "Shop Left Sidebar"
+            },
+            {
+                "id": 43,
+                "link": "/shop-details/1",
+                "linkText": "Shop Detail"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "linkText": "News",
+        "child": true,
+        "submenu": [
+            {
+                "id": 51,
+                "link": "/blog-standard",
+                "linkText": "News Standard"
+            },
+            {
+                "id": 52,
+                "link": "/blog-details/1",
+                "linkText": "News Detail"
+            },
+            {
+                "id": 53,
+                "link": "/blog-grid",
+                "linkText": "News Grid"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "linkText": "Strain",
+        "child": true,
+        "submenu": [
+            {
+                "id": 61,
+                "link": "/strain-masonary",
+                "linkText": "Strain Masonary"
+            },
+            {
+                "id": 62,
+                "link": "/strain-slider",
+                "linkText": "Strain Slider"
+            },
+            {
+                "id": 63,
+                "link": "/strain-details/1",
+                "linkText": "Strain Detail"
+            },
+            {
+                "id": 64,
+                "link": "/strain-grid",
+                "linkText": "Strain Grid"
+            }
+        ]
+    }
+]

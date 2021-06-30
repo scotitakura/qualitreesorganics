@@ -1,0 +1,850 @@
+[
+    {
+        "id":1,
+        "title":"Blue Dream",
+        "shorttitle":"Bd",
+        "image":[
+            "assets/img/products/product2.png",
+            "assets/img/shop-slider-01.png",
+            "assets/img/shop-slider-01.png",
+            "assets/img/shop-slider-01.png",
+            "assets/img/shop-slider-01.png"
+        ],
+        "discount":10,
+        "price":16.00,
+        "category":[1],
+        "tags":[1,2,3],
+        "rating":4,
+        "shortdescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "longdescription":"<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>",
+        "stock":true,
+        "effects":[
+            {
+                "title":"Happy",
+                "value":64
+            },
+            {
+                "title":"Relaxed",
+                "value":15
+            },
+            {
+                "title":"Euphoric",
+                "value":60
+            },
+            {
+                "title":"Unlifted",
+                "value":50
+            }
+        ],
+        "character":[
+            {
+                "icon":"marijuana",
+                "title":"Voriety"
+            },
+            {
+                "icon":"bong",
+                "title":"Mildness"
+            },
+            {
+                "icon":"shovel",
+                "title":"Earthy"
+            }
+        ],
+        "flavours":[
+            {
+                "icon":"grape",
+                "title":"Blueberry"
+            },
+            {
+                "icon":"mango",
+                "title":"Mango"
+            },
+            {
+                "icon":"candy",
+                "title":"Sweet"
+            }
+        ],
+        "specifications":[
+            {
+                "title":"THC",
+                "text":"22%"
+            },
+            {
+                "title":"CBD",
+                "text":"3%"
+            },
+            {
+                "title":"WEIGHT",
+                "text":"1 g, 1/2, 1/4, 1/8, joint, OZ"
+            }
+        ],
+        "reviews": [
+            {
+                "id": 1,
+                "name": "Anna Wright",
+                "img": "assets/img/details/comment-1.jpg",
+                "rating": 4,
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "name": "Jhon Kelian",
+                        "img": "assets/img/details/comment-2.jpg",
+                        "rating": 4,
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Hilixer D. Dilimmah",
+                "img": "assets/img/details/comment-3.jpg",
+                "rating": 4,
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id":2,
+        "title":"Slick Doom",
+        "shorttitle":"Sd",
+        "image":[
+            "assets/img/products/product3.png",
+            "assets/img/shop-slider-01.png",
+            "assets/img/shop-slider-01.png",
+            "assets/img/shop-slider-01.png",
+            "assets/img/shop-slider-01.png"
+        ],
+        "discount":10,
+        "price":16.00,
+        "category":[2],
+        "tags":[4,5,6],
+        "rating":4,
+        "shortdescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "longdescription":"<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>",
+        "stock":true,
+        "effects":[
+            {
+                "title":"Happy",
+                "value":64
+            },
+            {
+                "title":"Relaxed",
+                "value":15
+            },
+            {
+                "title":"Euphoric",
+                "value":60
+            },
+            {
+                "title":"Unlifted",
+                "value":50
+            }
+        ],
+        "character":[
+            {
+                "icon":"marijuana",
+                "title":"Voriety"
+            },
+            {
+                "icon":"bong",
+                "title":"Mildness"
+            },
+            {
+                "icon":"shovel",
+                "title":"Earthy"
+            }
+        ],
+        "flavours":[
+            {
+                "icon":"grape",
+                "title":"Blueberry"
+            },
+            {
+                "icon":"mango",
+                "title":"Mango"
+            },
+            {
+                "icon":"candy",
+                "title":"Sweet"
+            }
+        ],
+        "specifications":[
+            {
+                "title":"THC",
+                "text":"22%"
+            },
+            {
+                "title":"CBD",
+                "text":"3%"
+            },
+            {
+                "title":"WEIGHT",
+                "text":"1 g, 1/2, 1/4, 1/8, joint, OZ"
+            }
+        ],
+        "reviews": [
+            {
+                "id": 1,
+                "name": "Anna Wright",
+                "img": "assets/img/details/comment-1.jpg",
+                "rating": 4,
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "name": "Jhon Kelian",
+                        "img": "assets/img/details/comment-2.jpg",
+                        "rating": 4,
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Hilixer D. Dilimmah",
+                "img": "assets/img/details/comment-3.jpg",
+                "rating": 4,
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id":3,
+        "title":"Cool Ket",
+        "shorttitle":"Ck",
+        "image":[
+            "assets/img/products/product4.png",
+            "assets/img/shop-slider-01.png",
+            "assets/img/shop-slider-01.png",
+            "assets/img/shop-slider-01.png",
+            "assets/img/shop-slider-01.png"
+        ],
+        "discount":10,
+        "price":16.00,
+        "category":[3],
+        "tags":[7,8,9],
+        "rating":4,
+        "shortdescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "longdescription":"<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>",
+        "stock":true,
+        "effects":[
+            {
+                "title":"Happy",
+                "value":64
+            },
+            {
+                "title":"Relaxed",
+                "value":15
+            },
+            {
+                "title":"Euphoric",
+                "value":60
+            },
+            {
+                "title":"Unlifted",
+                "value":50
+            }
+        ],
+        "character":[
+            {
+                "icon":"marijuana",
+                "title":"Voriety"
+            },
+            {
+                "icon":"bong",
+                "title":"Mildness"
+            },
+            {
+                "icon":"shovel",
+                "title":"Earthy"
+            }
+        ],
+        "flavours":[
+            {
+                "icon":"grape",
+                "title":"Blueberry"
+            },
+            {
+                "icon":"mango",
+                "title":"Mango"
+            },
+            {
+                "icon":"candy",
+                "title":"Sweet"
+            }
+        ],
+        "specifications":[
+            {
+                "title":"THC",
+                "text":"22%"
+            },
+            {
+                "title":"CBD",
+                "text":"3%"
+            },
+            {
+                "title":"WEIGHT",
+                "text":"1 g, 1/2, 1/4, 1/8, joint, OZ"
+            }
+        ],
+        "reviews": [
+            {
+                "id": 1,
+                "name": "Anna Wright",
+                "img": "assets/img/details/comment-1.jpg",
+                "rating": 4,
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "name": "Jhon Kelian",
+                        "img": "assets/img/details/comment-2.jpg",
+                        "rating": 4,
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Hilixer D. Dilimmah",
+                "img": "assets/img/details/comment-3.jpg",
+                "rating": 4,
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id":4,
+        "title":"Bloom Blast",
+        "shorttitle":"Bb",
+        "image":[
+            "assets/img/products/product2.png",
+            "assets/img/shop-slider-01.png",
+            "assets/img/shop-slider-01.png",
+            "assets/img/shop-slider-01.png",
+            "assets/img/shop-slider-01.png"
+        ],
+        "discount":10,
+        "price":16.00,
+        "category":[1],
+        "tags":[10,11,12],
+        "rating":4,
+        "shortdescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "longdescription":"<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>",
+        "stock":true,
+        "effects":[
+            {
+                "title":"Happy",
+                "value":64
+            },
+            {
+                "title":"Relaxed",
+                "value":15
+            },
+            {
+                "title":"Euphoric",
+                "value":60
+            },
+            {
+                "title":"Unlifted",
+                "value":50
+            }
+        ],
+        "character":[
+            {
+                "icon":"marijuana",
+                "title":"Voriety"
+            },
+            {
+                "icon":"bong",
+                "title":"Mildness"
+            },
+            {
+                "icon":"shovel",
+                "title":"Earthy"
+            }
+        ],
+        "flavours":[
+            {
+                "icon":"grape",
+                "title":"Blueberry"
+            },
+            {
+                "icon":"mango",
+                "title":"Mango"
+            },
+            {
+                "icon":"candy",
+                "title":"Sweet"
+            }
+        ],
+        "specifications":[
+            {
+                "title":"THC",
+                "text":"22%"
+            },
+            {
+                "title":"CBD",
+                "text":"3%"
+            },
+            {
+                "title":"WEIGHT",
+                "text":"1 g, 1/2, 1/4, 1/8, joint, OZ"
+            }
+        ],
+        "reviews": [
+            {
+                "id": 1,
+                "name": "Anna Wright",
+                "img": "assets/img/details/comment-1.jpg",
+                "rating": 4,
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "name": "Jhon Kelian",
+                        "img": "assets/img/details/comment-2.jpg",
+                        "rating": 4,
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Hilixer D. Dilimmah",
+                "img": "assets/img/details/comment-3.jpg",
+                "rating": 4,
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id":5,
+        "title":"Wild Mix",
+        "shorttitle":"Wm",
+        "image":[
+            "assets/img/products/product5.png",
+            "assets/img/shop-slider-01.png",
+            "assets/img/shop-slider-01.png",
+            "assets/img/shop-slider-01.png",
+            "assets/img/shop-slider-01.png"
+        ],
+        "discount":10,
+        "price":16.00,
+        "category":[2],
+        "tags":[1,2,3],
+        "rating":4,
+        "shortdescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "longdescription":"<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>",
+        "stock":true,
+        "effects":[
+            {
+                "title":"Happy",
+                "value":64
+            },
+            {
+                "title":"Relaxed",
+                "value":15
+            },
+            {
+                "title":"Euphoric",
+                "value":60
+            },
+            {
+                "title":"Unlifted",
+                "value":50
+            }
+        ],
+        "character":[
+            {
+                "icon":"marijuana",
+                "title":"Voriety"
+            },
+            {
+                "icon":"bong",
+                "title":"Mildness"
+            },
+            {
+                "icon":"shovel",
+                "title":"Earthy"
+            }
+        ],
+        "flavours":[
+            {
+                "icon":"grape",
+                "title":"Blueberry"
+            },
+            {
+                "icon":"mango",
+                "title":"Mango"
+            },
+            {
+                "icon":"candy",
+                "title":"Sweet"
+            }
+        ],
+        "specifications":[
+            {
+                "title":"THC",
+                "text":"22%"
+            },
+            {
+                "title":"CBD",
+                "text":"3%"
+            },
+            {
+                "title":"WEIGHT",
+                "text":"1 g, 1/2, 1/4, 1/8, joint, OZ"
+            }
+        ],
+        "reviews": [
+            {
+                "id": 1,
+                "name": "Anna Wright",
+                "img": "assets/img/details/comment-1.jpg",
+                "rating": 4,
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "name": "Jhon Kelian",
+                        "img": "assets/img/details/comment-2.jpg",
+                        "rating": 4,
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Hilixer D. Dilimmah",
+                "img": "assets/img/details/comment-3.jpg",
+                "rating": 4,
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id":6,
+        "title":"Little Ghost",
+        "shorttitle":"Lg",
+        "image":[
+            "assets/img/products/product4.png",
+            "assets/img/shop-slider-01.png",
+            "assets/img/shop-slider-01.png",
+            "assets/img/shop-slider-01.png",
+            "assets/img/shop-slider-01.png"
+        ],
+        "discount":10,
+        "price":16.00,
+        "category":[3],
+        "tags":[4,5,6],
+        "rating":4,
+        "shortdescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "longdescription":"<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>",
+        "stock":true,
+        "effects":[
+            {
+                "title":"Happy",
+                "value":64
+            },
+            {
+                "title":"Relaxed",
+                "value":15
+            },
+            {
+                "title":"Euphoric",
+                "value":60
+            },
+            {
+                "title":"Unlifted",
+                "value":50
+            }
+        ],
+        "character":[
+            {
+                "icon":"marijuana",
+                "title":"Voriety"
+            },
+            {
+                "icon":"bong",
+                "title":"Mildness"
+            },
+            {
+                "icon":"shovel",
+                "title":"Earthy"
+            }
+        ],
+        "flavours":[
+            {
+                "icon":"grape",
+                "title":"Blueberry"
+            },
+            {
+                "icon":"mango",
+                "title":"Mango"
+            },
+            {
+                "icon":"candy",
+                "title":"Sweet"
+            }
+        ],
+        "specifications":[
+            {
+                "title":"THC",
+                "text":"22%"
+            },
+            {
+                "title":"CBD",
+                "text":"3%"
+            },
+            {
+                "title":"WEIGHT",
+                "text":"1 g, 1/2, 1/4, 1/8, joint, OZ"
+            }
+        ],
+        "reviews": [
+            {
+                "id": 1,
+                "name": "Anna Wright",
+                "img": "assets/img/details/comment-1.jpg",
+                "rating": 4,
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "name": "Jhon Kelian",
+                        "img": "assets/img/details/comment-2.jpg",
+                        "rating": 4,
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Hilixer D. Dilimmah",
+                "img": "assets/img/details/comment-3.jpg",
+                "rating": 4,
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id":7,
+        "title":"Kasmir Malana",
+        "shorttitle":"Km",
+        "image":[
+            "assets/img/products/product2.png",
+            "assets/img/shop-slider-01.png",
+            "assets/img/shop-slider-01.png",
+            "assets/img/shop-slider-01.png",
+            "assets/img/shop-slider-01.png"
+        ],
+        "discount":10,
+        "price":16.00,
+        "category":[1],
+        "tags":[7,8,9],
+        "rating":4,
+        "shortdescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "longdescription":"<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>",
+        "stock":true,
+        "effects":[
+            {
+                "title":"Happy",
+                "value":64
+            },
+            {
+                "title":"Relaxed",
+                "value":15
+            },
+            {
+                "title":"Euphoric",
+                "value":60
+            },
+            {
+                "title":"Unlifted",
+                "value":50
+            }
+        ],
+        "character":[
+            {
+                "icon":"marijuana",
+                "title":"Voriety"
+            },
+            {
+                "icon":"bong",
+                "title":"Mildness"
+            },
+            {
+                "icon":"shovel",
+                "title":"Earthy"
+            }
+        ],
+        "flavours":[
+            {
+                "icon":"grape",
+                "title":"Blueberry"
+            },
+            {
+                "icon":"mango",
+                "title":"Mango"
+            },
+            {
+                "icon":"candy",
+                "title":"Sweet"
+            }
+        ],
+        "specifications":[
+            {
+                "title":"THC",
+                "text":"22%"
+            },
+            {
+                "title":"CBD",
+                "text":"3%"
+            },
+            {
+                "title":"WEIGHT",
+                "text":"1 g, 1/2, 1/4, 1/8, joint, OZ"
+            }
+        ],
+        "reviews": [
+            {
+                "id": 1,
+                "name": "Anna Wright",
+                "img": "assets/img/details/comment-1.jpg",
+                "rating": 4,
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "name": "Jhon Kelian",
+                        "img": "assets/img/details/comment-2.jpg",
+                        "rating": 4,
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Hilixer D. Dilimmah",
+                "img": "assets/img/details/comment-3.jpg",
+                "rating": 4,
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    },
+    {
+        "id":8,
+        "title":"Jucy Mix",
+        "shorttitle":"Jm",
+        "image":[
+            "assets/img/products/product5.png",
+            "assets/img/shop-slider-01.png",
+            "assets/img/shop-slider-01.png",
+            "assets/img/shop-slider-01.png",
+            "assets/img/shop-slider-01.png"
+        ],
+        "discount":10,
+        "price":16.00,
+        "category":[2],
+        "tags":[10,11,12],
+        "rating":4,
+        "shortdescription":"Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "longdescription":"<p>Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.</p>",
+        "stock":true,
+        "effects":[
+            {
+                "title":"Happy",
+                "value":64
+            },
+            {
+                "title":"Relaxed",
+                "value":15
+            },
+            {
+                "title":"Euphoric",
+                "value":60
+            },
+            {
+                "title":"Unlifted",
+                "value":50
+            }
+        ],
+        "character":[
+            {
+                "icon":"marijuana",
+                "title":"Voriety"
+            },
+            {
+                "icon":"bong",
+                "title":"Mildness"
+            },
+            {
+                "icon":"shovel",
+                "title":"Earthy"
+            }
+        ],
+        "flavours":[
+            {
+                "icon":"grape",
+                "title":"Blueberry"
+            },
+            {
+                "icon":"mango",
+                "title":"Mango"
+            },
+            {
+                "icon":"candy",
+                "title":"Sweet"
+            }
+        ],
+        "specifications":[
+            {
+                "title":"THC",
+                "text":"22%"
+            },
+            {
+                "title":"CBD",
+                "text":"3%"
+            },
+            {
+                "title":"WEIGHT",
+                "text":"1 g, 1/2, 1/4, 1/8, joint, OZ"
+            }
+        ],
+        "reviews": [
+            {
+                "id": 1,
+                "name": "Anna Wright",
+                "img": "assets/img/details/comment-1.jpg",
+                "rating": 4,
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": [
+                    {
+                        "id": 11,
+                        "name": "Jhon Kelian",
+                        "img": "assets/img/details/comment-2.jpg",
+                        "rating": 4,
+                        "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+                    }
+                ]
+            },
+            {
+                "id": 2,
+                "name": "Hilixer D. Dilimmah",
+                "img": "assets/img/details/comment-3.jpg",
+                "rating": 4,
+                "comment": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.",
+                "replies": []
+            }
+        ]
+    }
+]

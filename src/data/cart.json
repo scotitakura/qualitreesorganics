@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "title":"Blue Blast",
+        "img":"assets/img/products/cart-1.png",
+        "qty":1,
+        "price": 109
+    },
+    {
+        "id":1,
+        "title":"Florida's Finest",
+        "img":"assets/img/products/cart-2.png",
+        "qty":1,
+        "price": 44
+    }
+]

@@ -1,0 +1,42 @@
+[
+    {
+        "photo": "assets/img/svg/medicine.svg",
+        "title": "Medical Cannabis",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    },
+    {
+        "photo": "assets/img/svg/cannabes.svg",
+        "title": "Cannabis",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    },
+    {
+        "photo": "assets/img/svg/cannabis-oil.svg",
+        "title": "CBD Oil",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    },
+    {
+        "photo": "assets/img/svg/marijuana.svg",
+        "title": "Edible",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    },
+    {
+        "photo": "assets/img/svg/medicine.svg",
+        "title": "Cannabis Reform",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    },
+    {
+        "photo": "assets/img/svg/marijuana.svg",
+        "title": "Fire Safety Claim",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    },
+    {
+        "photo": "assets/img/svg/cannabis-oil.svg",
+        "title": "Expert Talk",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    },
+    {
+        "photo": "assets/img/svg/cannabes.svg",
+        "title": "Policy Support",
+        "para": "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incid."
+    }
+]
